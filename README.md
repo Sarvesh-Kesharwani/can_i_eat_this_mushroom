@@ -6,3 +6,4 @@ create pyenv env
 
 ppt --> functional layer/part of the analysis.
 pn --> techinical layer/part of the analysis.
+StreamlitApp --> 
